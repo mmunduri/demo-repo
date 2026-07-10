@@ -1,0 +1,12 @@
+
+# Playwright
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
+C:\Users\mmund\playwright\playwright-e2e\.env
+C:\Users\mmund\playwright\playwright-e2e\.github
+.github\agents
+.github\copilot-instructions
